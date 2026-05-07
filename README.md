@@ -9,6 +9,10 @@ This project analyzes sales data for Vrinda Store using Microsoft Excel. The goa
 - Evaluate order fulfillment performance
 - Understand customer demographics and purchasing behavior
 
+![Vrinda Store Dashboard](https://raw.githubusercontent.com/shivani-vishwakarmaa/vrinda_store-data-analysis-excel/main/dashboard.png)
+
+
+
 ## Dataset
 The dataset contains transactional sales data with the following key fields:
 - Order ID, Customer ID
